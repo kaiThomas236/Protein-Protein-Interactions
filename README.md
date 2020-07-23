@@ -1,4 +1,4 @@
-#Evolutionary Relationships through Protein-Protein Interactions
+# Evolutionary Relationships through Protein-Protein Interactions
 
 
 This project was for my CS class Biological Networks, we worked in python with NetworkX.
